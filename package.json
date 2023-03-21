@@ -2,7 +2,7 @@
   "name": "ecothreads",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://victoriachakma.github.io/EcoThreads",
+  "homepage": "https://billiezhang1504.github.io/EcoThreads",
   "type": "module",
   "scripts": {
     "dev": "vite",
