@@ -7,4 +7,4 @@ In the closet, users can input all the items in their own closet and the app wil
 
 # View the website here:
 
-https://billiezhang1504.github.io/EcoThreads/
+[EcoThreads](https://billie-zhang.github.io/EcoThreads/)
